@@ -4,6 +4,6 @@ This version is freely downloadable in pdf format, with low-cost self-published 
 
 Re-distribution is encouraged provided that the document is forwarded in its entirety. Any extracts from the material in this book should be cited with the document title (ARM64 Assembly Language and Architecture) and the Author's name (Alan Johnson)
 
-Feedback is greatly appreciated.
+Feedback is greatly appreciated email: xelsys@gmail.com
  
 This document is also available at https://alanxelsys.org/2025/04/11/arm64-assembly-language-and-architecture/
